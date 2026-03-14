@@ -4,7 +4,8 @@
 <!--                    ANIMATED BANNER                           -->
 <!-- ============================================================ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00e5ff,100:00ff88&height=280&section=header&text=XC0MRADE&fontSize=90&fontAlign=50&fontAlignY=45&fontColor=ffffff&desc=Cybersecurity%20Student%20%7C%20Builder%20%7C%20Founder&descAlign=50&descAlignY=68&descSize=22&animation=fadeIn&stroke=00e5ff&strokeWidth=2" width="100%" />
+<!-- Banner removed per request (original line kept here as comment so it can be restored if needed) -->
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00e5ff,100:00ff88&height=280&section=header&text=XC0MRADE&fontSize=90&fontAlign=50&fontAlignY=45&fontColor=ffffff&desc=Cybersecurity%20Student%20%7C%20Builder%20%7C%20Founder&descAlign=50&descAlignY=68&descSize=22&animation=fadeIn&stroke=00e5ff&strokeWidth=2" width="100%" /> -->
 
 <!-- ============================================================ -->
 <!--                   TYPING ANIMATION                           -->
@@ -42,7 +43,7 @@
 ┌──(xc0mrade㉿kali)-[~]
 └─$ cat about.txt
 
-Name     : Vivek Singh (XC0MRADE)
+Name     : Vivek (XC0MRADE)
 Role     : Cybersecurity Student + Founder
 College  : CGC Jhanjheri — B.Tech Cyber Security
 Company  : XC0MRADE Technologies Pvt. Ltd.
@@ -67,6 +68,8 @@ Status   : [ LEARNING ] — Always.
 
 ---
 
+<!-- GitHub stats section commented out because stats card endpoints were not working for now. Uncomment to restore. -->
+<!--
 <!-- ============================================================ -->
 <!--                    GITHUB STATS                              -->
 <!-- ============================================================ -->
@@ -98,6 +101,7 @@ Status   : [ LEARNING ] — Always.
 </div>
 
 ---
+-->
 
 <!-- ============================================================ -->
 <!--                    TECH STACK & TOOLS                        -->
@@ -156,6 +160,8 @@ Status   : [ LEARNING ] — Always.
 
 ---
 
+<!-- Featured Projects commented out for now. To re-enable, add links to project repos and remove the surrounding HTML comment. -->
+<!--
 <!-- ============================================================ -->
 <!--                   FEATURED PROJECTS                          -->
 <!-- ============================================================ -->
@@ -193,6 +199,7 @@ Status   : [ LEARNING ] — Always.
 ![Educational](https://img.shields.io/badge/-Educational_PoC-00ff88?style=flat-square)
 
 ---
+-->
 
 <!-- ============================================================ -->
 <!--              SKILLS PROGRESS (TEXT-BASED)                    -->
@@ -217,39 +224,41 @@ Startup Building            ██████░░░░░░░░░░░�
 <!--                     CURRENT FOCUS                            -->
 <!-- ============================================================ -->
 
+<!-- 'What I'm Working On Right Now' section removed as requested. Keep this comment block if you want to restore later. -->
+<!--
 ## 🎯 What I'm Working On Right Now
 
 ```python
 class XC0MRADE:
-    def __init__(self):
-        self.name        = "Vivek"
-        self.alias       = "XC0MRADE"
-        self.college     = "CGC Jhanjheri — B.Tech Cyber Security"
-        self.company     = "XC0MRADE Technologies Pvt. Ltd."
-        self.location    = "India 🇮🇳"
+  def __init__(self):
+    self.name        = "Vivek"
+    self.alias       = "XC0MRADE"
+    self.college     = "CGC Jhanjheri — B.Tech Cyber Security"
+    self.company     = "XC0MRADE Technologies Pvt. Ltd."
+    self.location    = "India 🇮🇳"
 
-    @property
-    def current_focus(self):
-        return [
-            "🔐 Cybersecurity fundamentals & practice",
-            "🐧 Linux internals & bash automation",
-            "📡 Network protocols & packet analysis",
-            "🛠️  Building security PoC tools",
-            "⚛️  Learning React & Next.js",
-            "🏢 Growing XC0MRADE Technologies",
-        ]
+  @property
+  def current_focus(self):
+    return [
+      "🔐 Cybersecurity fundamentals & practice",
+      "🐧 Linux internals & bash automation",
+      "📡 Network protocols & packet analysis",
+      "🛠️  Building security PoC tools",
+      "⚛️  Learning React & Next.js",
+      "🏢 Growing XC0MRADE Technologies",
+    ]
 
-    @property
-    def learning_next(self):
-        return [
-            "CTF competitions",
-            "Reverse engineering basics",
-            "Cloud security fundamentals",
-            "DevSecOps practices",
-        ]
+  @property
+  def learning_next(self):
+    return [
+      "CTF competitions",
+      "Reverse engineering basics",
+      "Cloud security fundamentals",
+      "DevSecOps practices",
+    ]
 
-    def life_philosophy(self):
-        return "Build. Break. Learn. Repeat. 🔁"
+  def life_philosophy(self):
+    return "Build. Break. Learn. Repeat. 🔁"
 
 me = XC0MRADE()
 print(me.life_philosophy())
@@ -257,6 +266,7 @@ print(me.life_philosophy())
 ```
 
 ---
+-->
 
 <!-- ============================================================ -->
 <!--                    COMPANY SECTION                           -->
@@ -280,6 +290,8 @@ print(me.life_philosophy())
 
 ---
 
+<!-- Contribution snake removed as requested. To restore, remove the surrounding comment markers and enable the workflow in the repo. -->
+<!--
 <!-- ============================================================ -->
 <!--                  SNAKE CONTRIBUTION GRAPH                    -->
 <!-- ============================================================ -->
@@ -299,6 +311,7 @@ print(me.life_philosophy())
 > ℹ️ To activate the snake: go to **Actions** tab in your profile repo → enable the `Generate Snake` workflow.
 
 ---
+-->
 
 <!-- ============================================================ -->
 <!--                   CERTIFICATIONS / LEARNING                  -->
