@@ -42,7 +42,7 @@
 ┌──(xc0mrade㉿kali)-[~]
 └─$ cat about.txt
 
-Name     : Vivek (XC0MRADE)
+Name     : Vivek Singh (XC0MRADE)
 Role     : Cybersecurity Student + Founder
 College  : CGC Jhanjheri — B.Tech Cyber Security
 Company  : XC0MRADE Technologies Pvt. Ltd.
