@@ -68,41 +68,6 @@ Status   : [ LEARNING ] — Always.
 
 ---
 
-<!-- GitHub stats section commented out because stats card endpoints were not working for now. Uncomment to restore. -->
-<!--
-<!-- ============================================================ -->
-<!--                    GITHUB STATS                              -->
-<!-- ============================================================ -->
-
-<div align="center">
-
-## ⚡ GitHub Stats
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=xc0mrade&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=020408&title_color=00e5ff&icon_color=00ff88&text_color=c8d8e8&border_radius=10&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xc0mrade&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=020408&title_color=00e5ff&text_color=c8d8e8&border_radius=10&langs_count=8" height="180" alt="Top Languages"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=xc0mrade&theme=dark&hide_border=true&background=020408&stroke=00e5ff&ring=00ff88&fire=00e5ff&currStreakNum=ffffff&sideNums=00e5ff&currStreakLabel=00ff88&sideLabels=c8d8e8&dates=6a8090&border_radius=10" alt="GitHub Streak" />
-
-<br/><br/>
-
-<!-- TROPHY CASE -->
-<img src="https://github-profile-trophy.vercel.app/?username=xc0mrade&theme=darkhub&no-frame=true&no-bg=false&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies" />
-
-<br/><br/>
-
-<!-- CONTRIBUTION GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=xc0mrade&bg_color=020408&color=00e5ff&line=00ff88&point=00e5ff&area=true&area_color=00e5ff&hide_border=true&radius=10" width="100%" alt="Contribution Graph" />
-
-</div>
-
----
--->
-
 <!-- ============================================================ -->
 <!--                    TECH STACK & TOOLS                        -->
 <!-- ============================================================ -->
@@ -290,28 +255,7 @@ print(me.life_philosophy())
 
 ---
 
-<!-- Contribution snake removed as requested. To restore, remove the surrounding comment markers and enable the workflow in the repo. -->
-<!--
-<!-- ============================================================ -->
-<!--                  SNAKE CONTRIBUTION GRAPH                    -->
-<!-- ============================================================ -->
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xc0mrade/xc0mrade/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xc0mrade/xc0mrade/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/xc0mrade/xc0mrade/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
-> ℹ️ To activate the snake: go to **Actions** tab in your profile repo → enable the `Generate Snake` workflow.
-
 ---
--->
 
 <!-- ============================================================ -->
 <!--                   CERTIFICATIONS / LEARNING                  -->
