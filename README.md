@@ -62,7 +62,7 @@ Status   : [ LEARNING ] — Always.
 - 🐧 &nbsp;Living on the **Linux terminal** — Kali, bash, Python every day
 - 🌱 &nbsp;Currently deep-diving into **Network Security** and **Malware Analysis**
 - 💡 &nbsp;Philosophy: _"You can't defend what you don't understand"_
-- 📬 &nbsp;Reach me at: **xc0mrade@proton.me**
+- 📬 &nbsp;Reach me at: **viveksingh710c@gmail.com**
 
 <br clear="right"/>
 
