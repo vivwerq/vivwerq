@@ -21,11 +21,11 @@
 <!--                     PROFILE BADGES                           -->
 <!-- ============================================================ -->
 
-![Profile Views](https://komarev.com/ghpvc/?username=xc0mrade&color=00e5ff&style=for-the-badge&label=PROFILE+VIEWS)
+[![Profile Views](https://komarev.com/ghpvc/?username=xc0mrade&color=00e5ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/xc0mrade)
 &nbsp;
-![GitHub followers](https://img.shields.io/github/followers/xc0mrade?color=00ff88&logo=github&style=for-the-badge&label=FOLLOWERS)
+[![Followers](https://img.shields.io/github/followers/xc0mrade?label=Followers&style=for-the-badge&color=00ff88)](https://github.com/xc0mrade)
 &nbsp;
-[![GitHub Stars](https://img.shields.io/github/stars/xc0mrade?color=00e5ff&logo=github&style=for-the-badge&label=TOTAL+STARS)](https://github.com/xc0mrade)
+[![Total Stars](https://img.shields.io/github/stars/xc0mrade?label=Total%20Stars&style=for-the-badge&color=00e5ff)](https://github.com/xc0mrade)
 
 </div>
 
