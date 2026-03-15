@@ -1,15 +1,5 @@
 <div align="center">
 
-<!-- ============================================================ -->
-<!--                    ANIMATED BANNER                           -->
-<!-- ============================================================ -->
-
-<!-- Banner removed per request (original line kept here as comment so it can be restored if needed) -->
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00e5ff,100:00ff88&height=280&section=header&text=XC0MRADE&fontSize=90&fontAlign=50&fontAlignY=45&fontColor=ffffff&desc=Cybersecurity%20Student%20%7C%20Builder%20%7C%20Founder&descAlign=50&descAlignY=68&descSize=22&animation=fadeIn&stroke=00e5ff&strokeWidth=2" width="100%" /> -->
-
-<!-- ============================================================ -->
-<!--                   TYPING ANIMATION                           -->
-<!-- ============================================================ -->
 
 <br/>
 
@@ -309,9 +299,6 @@ print(me.life_philosophy())
 [![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <br/>
-
-<!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:00e5ff,100:000000&height=120&section=footer&animation=fadeIn" width="100%" />
 
 <sub>
   <code>// XC0MRADE — Build. Break. Learn. Repeat.</code>
